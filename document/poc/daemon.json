@@ -1,0 +1,4 @@
+{
+  "registry-mirrors": ["http://hub-mirror.c.163.com", "https://docker.mirrors.ustc.edu.cn"],
+  "insecure-registries": ["192.168.50.103:8000", "192.168.50.108:8000", "192.168.50.109:8000" ]
+}
